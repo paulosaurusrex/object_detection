@@ -1,2 +1,3 @@
-# object_detection
-Project to learn about object detection as a first step to do historical document transcripting.
+# Object Detection
+
+Project to learn about object detection as a first step for historical document transcription.
